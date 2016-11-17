@@ -1,9 +1,11 @@
 var React = require('react');
 
 var About = (props) => {
-    return (
-        <h3>About component</h3>
-    )    
+  return (
+    <div>
+      <h1 className="text-center">About</h1>
+    </div>
+  )
 }
 
 module.exports = About;
