@@ -1,5 +1,7 @@
+$page-title: 2.5rem;
+
 .page-title {
-  margin: 2.5rem 0;
+  margin: $page-title 0;
 }
 
 input[type=search] {
